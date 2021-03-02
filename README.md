@@ -1,16 +1,11 @@
-# Put title of your app here
-
-<!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
-<!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/hakkasuru/PuppyLove/workflows/Check/badge.svg)
-
+# PuppyLove
 
 ## :scroll: Description
-Puppy adoption app that uses tinder-like swiping
+Puppy adoption app that uses swiping gesture
 
 
 ## :bulb: Motivation and Context
-I'm proud of the fact that I was able to implement a tinder-like swiping gesture just using compose
+I'm proud of the fact that I was able to implement a swiping gesture just using compose
 
 
 ## :camera_flash: Screenshots
